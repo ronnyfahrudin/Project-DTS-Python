@@ -1,0 +1,19 @@
+Sebelum mengerjakan dibaca dengan seksama teorinya. Rumus matematis untuk semua soal sudah ada di lembar ini
+Deadline (06.00 AM WIB 15/06/2020)
+Jadwal update github: Rabu, Sabtu, Senin
+Untuk yang tidak mengerjakan di colab:
+Install matplotlib, atau
+Kode visualilasasi dihiraukan saja
+
+Estimasi nilai π dengan Monte Carlo
+Dalam project kali ini kita akan memnbuat suatu program simulasi untuk mengestimasi nilai  
+π dengan menggunakan metode Monte Carlo.
+
+Monte Carlo merupakan sebuah algoritme matematis yang berdasarkan simulasi dari nilai-nilai random yang diulang-ulang berkali-kali untuk memprediksi distribusi suatu fenomena yang banyak digunakan untuk analisis resiko dan pengambilan keputusan.
+
+Project Items:
+Estimasi luas lingkaran denga MC.
+Estimasi nilai π dengan MC.
+Menghitung error relative dari estimasi π dengan MC.
+
+detailnya ada di folder project 2 monte carlo simulation
